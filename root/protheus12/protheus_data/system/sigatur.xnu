@@ -1,0 +1,1832 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGATUR</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A890000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros Cliente</Title>
+			<Title lang="es">Archivos Cliente</Title>
+			<Title lang="en">Customer Files</Title>
+			<ItemID>0000022928</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Clientes</Title>
+				<Title lang="es">Clientes</Title>
+				<Title lang="en">Customers</Title>
+				<Function>MATA030</Function>
+				<Type>1</Type>
+				<Tables>SD1</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SED</Tables>
+				<Tables>SAO</Tables>
+				<Tables>AC8</Tables>
+				<Tables>AC9</Tables>
+				<Tables>JA2</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SUA</Tables>
+				<Tables>SUC</Tables>
+				<Tables>SF2</Tables>
+				<Tables>DAF</Tables>
+				<Tables>DAD</Tables>
+				<Tables>SF1</Tables>
+				<Tables>SAE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>73</Owner>
+				<ItemID>0000021419</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Clientes</KeyWord>
+					<KeyWord lang="es">Clientes</KeyWord>
+					<KeyWord lang="en">Customers</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Complemento de Clientes</Title>
+				<Title lang="es">Complemento de Clientes</Title>
+				<Title lang="en">Customer Complement</Title>
+				<Function>TURA018</Function>
+				<Type>1</Type>
+				<Tables>G3K</Tables>
+				<Tables>G4L</Tables>
+				<Tables>G4M</Tables>
+				<Tables>G4N</Tables>
+				<Tables>G4O</Tables>
+				<Tables>G4P</Tables>
+				<Tables>G4Q</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021447</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Complemento,complementos,clientes,cliente</KeyWord>
+					<KeyWord lang="es">Complemento,complementos,clientes,cliente</KeyWord>
+					<KeyWord lang="en">Complement,complements,customers,customer</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Acordos de Clientes</Title>
+				<Title lang="es">Acuerdos Clientes</Title>
+				<Title lang="en">Customers Agreement</Title>
+				<Function>TURA033</Function>
+				<Type>1</Type>
+				<Tables>G4X</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000022901</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cartões Cliente</Title>
+				<Title lang="es">Tarjetas Cliente</Title>
+				<Title lang="en">Customer Cards</Title>
+				<Function>TURA008</Function>
+				<Type>1</Type>
+				<Tables>G3J</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021400</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cartões,cliente</KeyWord>
+					<KeyWord lang="es">Tarjetas,cliente</KeyWord>
+					<KeyWord lang="en">Cards,customer</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Entidades Adicionais</Title>
+				<Title lang="es">Entes Adicionales</Title>
+				<Title lang="en">Additional Entities</Title>
+				<Function>TURA006</Function>
+				<Type>1</Type>
+				<Tables>G3F</Tables>
+				<Tables>G3G</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021398</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Entidades,adicionais</KeyWord>
+					<KeyWord lang="es">Entes,adicionales</KeyWord>
+					<KeyWord lang="en">Entities,additional</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Entidades</Title>
+				<Title lang="es">Tipos de Entes</Title>
+				<Title lang="en">Types Of Entities</Title>
+				<Function>TURA005</Function>
+				<Type>1</Type>
+				<Tables>G3E</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021397</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tipos,entidades</KeyWord>
+					<KeyWord lang="es">Tipos,entes</KeyWord>
+					<KeyWord lang="en">Types,entities</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contatos</Title>
+				<Title lang="es">Contactos</Title>
+				<Title lang="en">Contacts</Title>
+				<Function>TMKA070</Function>
+				<Type>1</Type>
+				<Tables>SU5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>5</Owner>
+				<ItemID>0000023443</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contato</KeyWord>
+					<KeyWord lang="es">Contacto</KeyWord>
+					<KeyWord lang="en">Contact</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos de Clientes</Title>
+				<Title lang="es">Grupos de Clientes</Title>
+				<Title lang="en">Customer Groups</Title>
+				<Function>FATA730</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023677</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros Fornecedor</Title>
+			<Title lang="es">Archivos Proveedor</Title>
+			<Title lang="en">Supplier Registrations</Title>
+			<ItemID>0000021391</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fornecedores</Title>
+				<Title lang="es">Proveedores</Title>
+				<Title lang="en">Suppliers</Title>
+				<Function>MATA020</Function>
+				<Type>1</Type>
+				<Tables>SA5</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SE2</Tables>
+				<Tables>SF1</Tables>
+				<Tables>SED</Tables>
+				<Tables>SE4</Tables>
+				<Tables>SAD</Tables>
+				<Tables>AC8</Tables>
+				<Tables>AC9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>2</Owner>
+				<ItemID>0000022813</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fornecedores,fornecedor</KeyWord>
+					<KeyWord lang="es">Proveedores,proveedor</KeyWord>
+					<KeyWord lang="en">Suppliers,supplier</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Complemento de Fornecedores</Title>
+				<Title lang="es">Complemento de Proveedores</Title>
+				<Title lang="en">Suppliers Complement</Title>
+				<Function>TURA019</Function>
+				<Type>1</Type>
+				<Tables>G3K</Tables>
+				<Tables>G4R</Tables>
+				<Tables>G4S</Tables>
+				<Tables>G4T</Tables>
+				<Tables>G4U</Tables>
+				<Tables>G4V</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021448</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Complemento,complementos,fornecedor,fornecedores</KeyWord>
+					<KeyWord lang="es">Complemento,complementos,proveedor,proveedores</KeyWord>
+					<KeyWord lang="en">Complement,complements,supplier,suppliers</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Acordos de Fornecedores</Title>
+				<Title lang="es">Acuerdos de Proveedores</Title>
+				<Title lang="en">Suppliers Agreement</Title>
+				<Function>TURA020</Function>
+				<Type>1</Type>
+				<Tables>G4W</Tables>
+				<Tables>G4X</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021402</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Acordos,fornecedores</KeyWord>
+					<KeyWord lang="es">Acuerdos,proveedores</KeyWord>
+					<KeyWord lang="en">Agreements,suppliers</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Acordos de Metas</Title>
+				<Title lang="es">Acuerdos de Metas</Title>
+				<Title lang="en">Goals Agreements</Title>
+				<Function>TURA037</Function>
+				<Type>1</Type>
+				<Tables>G4X</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000022902</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupo de Fornecedores</Title>
+				<Title lang="es">Grupo de Proveedores</Title>
+				<Title lang="en">Suppliers Group</Title>
+				<Function>TURA025</Function>
+				<Type>1</Type>
+				<Tables>G5M</Tables>
+				<Tables>G5N</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021474</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Grupo,grupos,fornecedores,fornecedor</KeyWord>
+					<KeyWord lang="es">Grupo,grupos,proveedores,proveedor</KeyWord>
+					<KeyWord lang="en">Group,groups,suppliers,supplier</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Taxas</Title>
+				<Title lang="es">Tasas</Title>
+				<Title lang="en">Rates</Title>
+				<Function>TURA001</Function>
+				<Type>1</Type>
+				<Tables>G3A</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021392</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Taxas</KeyWord>
+					<KeyWord lang="es">Tasas</KeyWord>
+					<KeyWord lang="en">Rates</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros Agencia</Title>
+			<Title lang="es">Archivos Agencia</Title>
+			<Title lang="en">Agency Registrations</Title>
+			<ItemID>0000023400</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Vendedores</Title>
+				<Title lang="es">Vendedores</Title>
+				<Title lang="en">Salesperson</Title>
+				<Function>MATA040</Function>
+				<Type>1</Type>
+				<Tables>SA3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>5</Owner>
+				<ItemID>0000023402</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Vendedores</KeyWord>
+					<KeyWord lang="es">Vendedores</KeyWord>
+					<KeyWord lang="en">Salespeople</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agentes de Viagem</Title>
+				<Title lang="es">Agentes de Viaje</Title>
+				<Title lang="en">Trip Agents</Title>
+				<Function>TURA007</Function>
+				<Type>1</Type>
+				<Tables>G3H</Tables>
+				<Tables>G3I</Tables>
+				<Tables>G3L</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021399</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Agentes,viagem</KeyWord>
+					<KeyWord lang="es">Agentes,viaje</KeyWord>
+					<KeyWord lang="en">Agents,travel</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cartões Turismo</Title>
+				<Title lang="es">Tarjetas Turismo</Title>
+				<Title lang="en">Tourism Cards</Title>
+				<Function>TURA004</Function>
+				<Type>1</Type>
+				<Tables>G3D</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021395</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cartão,cartões,turismo</KeyWord>
+					<KeyWord lang="es">Tarjeta,tarjetas,turismo</KeyWord>
+					<KeyWord lang="en">Card,cards,tourism</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Posto de Atendimento</Title>
+				<Title lang="es">Puesto de Atención</Title>
+				<Title lang="en">Service Station</Title>
+				<Function>TURA010</Function>
+				<Type>1</Type>
+				<Tables>G3M</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021401</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Posto,atendimento</KeyWord>
+					<KeyWord lang="es">Puesto,atención</KeyWord>
+					<KeyWord lang="en">Station,service</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Moeda</Title>
+				<Title lang="es">Moneda</Title>
+				<Title lang="en">Currency</Title>
+				<Function>TURA031</Function>
+				<Type>1</Type>
+				<Tables>G5T</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021413</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Moeda</KeyWord>
+					<KeyWord lang="es">Moneda</KeyWord>
+					<KeyWord lang="en">Currency</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Taxa de Câmbio</Title>
+				<Title lang="es">Tasa de Cambio</Title>
+				<Title lang="en">Exchange Rate</Title>
+				<Function>TURA069</Function>
+				<Type>1</Type>
+				<Tables>G9L</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000023757</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Moeda,taxa de Cambio</KeyWord>
+					<KeyWord lang="es">Moneda,tasa de Cambio</KeyWord>
+					<KeyWord lang="en">Currency,exchange Rate</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Unidade de Negócio</Title>
+				<Title lang="es">Unidad de Negocio</Title>
+				<Title lang="en">Business Unit</Title>
+				<Function>FATA510</Function>
+				<Type>1</Type>
+				<Tables>ADK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>73</Owner>
+				<ItemID>0000021416</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Unidade,negocio</KeyWord>
+					<KeyWord lang="es">Unidad,negocio</KeyWord>
+					<KeyWord lang="en">Unit,business</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sistemas de Origem</Title>
+				<Title lang="es">Sistemas de Origen</Title>
+				<Title lang="en">Source Systems</Title>
+				<Function>TURA017</Function>
+				<Type>1</Type>
+				<Tables>G4K</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021446</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Sistema,sistemas,origem,origens</KeyWord>
+					<KeyWord lang="es">Sistema,sistemas,origen,orígenes</KeyWord>
+					<KeyWord lang="en">System,systems,origin,origins</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Formas de Pagamentos</Title>
+				<Title lang="es">Formas de Pago</Title>
+				<Title lang="en">Payment Terms</Title>
+				<Function>TURA011</Function>
+				<Type>1</Type>
+				<Tables>G3N</Tables>
+				<Tables>G3O</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021436</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Formas,forma,pagamento,pagamnetos</KeyWord>
+					<KeyWord lang="es">Formas,forma,pago,pagos</KeyWord>
+					<KeyWord lang="en">Methods,method,payment,payments</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Condição de Pagamento</Title>
+				<Title lang="es">Condición de Pago</Title>
+				<Title lang="en">Payment Term</Title>
+				<Function>MATA360</Function>
+				<Type>1</Type>
+				<Tables>SE4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>5</Owner>
+				<ItemID>0000023405</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Condicao,condicoes,pagamento</KeyWord>
+					<KeyWord lang="es">Condición,condiciones,pago</KeyWord>
+					<KeyWord lang="en">Term,terms,payment</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Complemento de Condição de Pagamento</Title>
+				<Title lang="es">Complemento Condición de Pago</Title>
+				<Title lang="en">Payment Term Complement</Title>
+				<Function>TURA009</Function>
+				<Type>1</Type>
+				<Tables>G66</Tables>
+				<Tables>SE4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023276</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classificação de Cartões</Title>
+				<Title lang="es">Clasificación de Tarjetas</Title>
+				<Title lang="en">Card Classification</Title>
+				<Function>TURA055</Function>
+				<Type>1</Type>
+				<Tables>G8Q</Tables>
+				<Tables>G8R</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000023207</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Classificação,classificações,cartão,cartões</KeyWord>
+					<KeyWord lang="es">Clasificación,clasificaciones,tarjeta,tarjetas</KeyWord>
+					<KeyWord lang="en">Classification,classifications,card,cards</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Naturezas</Title>
+				<Title lang="es">Modalidades</Title>
+				<Title lang="en">Classes</Title>
+				<Function>FINA010</Function>
+				<Type>1</Type>
+				<Tables>SED</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>6</Owner>
+				<ItemID>0000023409</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Naturezas,financeiro,financeiras</KeyWord>
+					<KeyWord lang="es">Modalidades,financiero,financieras</KeyWord>
+					<KeyWord lang="en">Classes,financial,financial</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tes</Title>
+				<Title lang="es">Tes</Title>
+				<Title lang="en">Tes</Title>
+				<Function>MATA080</Function>
+				<Type>1</Type>
+				<Tables>SF4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>5</Owner>
+				<ItemID>0000023412</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tes,tipos,entrada,saida</KeyWord>
+					<KeyWord lang="es">Tes,tipos,entrada,salida</KeyWord>
+					<KeyWord lang="en">Tes,types,entry,exit</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Parâmetro Fiscal e Financeiro de Receita</Title>
+				<Title lang="es">Parámetro Fiscal Y Financiero de Ingreso</Title>
+				<Title lang="en">Fiscal Parameter And Income Financial</Title>
+				<Function>TURA035</Function>
+				<Type>1</Type>
+				<Tables>G6A</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021415</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Parametro,fiscal,financeiro,receita</KeyWord>
+					<KeyWord lang="es">Parámetro,fiscal,financiero,ingreso</KeyWord>
+					<KeyWord lang="en">Parameter,tax,financial,income</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Emissão</Title>
+				<Title lang="es">Tipo de Emisión</Title>
+				<Title lang="en">Issue Type</Title>
+				<Function>TURA026</Function>
+				<Type>1</Type>
+				<Tables>G5O</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021403</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tipo,emissão</KeyWord>
+					<KeyWord lang="es">Tipo,emisión</KeyWord>
+					<KeyWord lang="en">Type,issue</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivo de Divergência</Title>
+				<Title lang="es">Motivo de Divergencia</Title>
+				<Title lang="en">Divergence Reason</Title>
+				<Function>TURA027</Function>
+				<Type>1</Type>
+				<Tables>G5P</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021405</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Motivo,divergencia</KeyWord>
+					<KeyWord lang="es">Motivo,divergencia</KeyWord>
+					<KeyWord lang="en">Reason,divergence</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivo de Intervenção</Title>
+				<Title lang="es">Motivo de Intervención</Title>
+				<Title lang="en">Intervention Reason</Title>
+				<Function>TURA028</Function>
+				<Type>1</Type>
+				<Tables>G5Q</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021406</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Motivo,intervenção</KeyWord>
+					<KeyWord lang="es">Motivo,intervención</KeyWord>
+					<KeyWord lang="en">Reason,intervention</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivo de Cancelamento</Title>
+				<Title lang="es">Motivo de Anulación</Title>
+				<Title lang="en">Cancelation Reason</Title>
+				<Function>TURA032</Function>
+				<Type>1</Type>
+				<Tables>G5U</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021414</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Motivo,cancelamento</KeyWord>
+					<KeyWord lang="es">Motivo,anulación</KeyWord>
+					<KeyWord lang="en">Reason,cancellation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivo de Reembolso</Title>
+				<Title lang="es">Motivo de Reembols</Title>
+				<Title lang="en">Refund Reason</Title>
+				<Function>TURA054</Function>
+				<Type>1</Type>
+				<Tables>G8P</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000022743</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Motivo,reembolso</KeyWord>
+					<KeyWord lang="es">Motivo,reembolso</KeyWord>
+					<KeyWord lang="en">Reason,refund</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Impostos</Title>
+				<Title lang="es">Impuestos</Title>
+				<Title lang="en">Taxes</Title>
+				<Function>TURA029</Function>
+				<Type>1</Type>
+				<Tables>G5R</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021407</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Impostos</KeyWord>
+					<KeyWord lang="es">Impuestos</KeyWord>
+					<KeyWord lang="en">Taxes</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cidades</Title>
+				<Title lang="es">Ciudades</Title>
+				<Title lang="en">Cities</Title>
+				<Function>TURA030</Function>
+				<Type>1</Type>
+				<Tables>G5S</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021408</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cidades</KeyWord>
+					<KeyWord lang="es">Ciudades</KeyWord>
+					<KeyWord lang="en">Cities</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Municípios</Title>
+				<Title lang="es">Municipios</Title>
+				<Title lang="en">Cities</Title>
+				<Function>FISA010</Function>
+				<Type>1</Type>
+				<Tables>CC2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>9</Owner>
+				<ItemID>0000021418</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Municipios</KeyWord>
+					<KeyWord lang="es">Municipios</KeyWord>
+					<KeyWord lang="en">Cities</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Leiautes Conciliação Aérea</Title>
+				<Title lang="es">Layouts Conciliación Aérea</Title>
+				<Title lang="en">Aerial Reconciliation Layouts</Title>
+				<Function>TURA041</Function>
+				<Type>1</Type>
+				<Tables>G8A</Tables>
+				<Tables>G9M</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000023938</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Layout,leiaute,conciliacao,aereo,aerea,fatura</KeyWord>
+					<KeyWord lang="es">Layout,layout,conciliación,aéreo,aérea,factura</KeyWord>
+					<KeyWord lang="en">Layout,layout,reconciliation,aerial,layout,layout,reconciliation,aerial,aerial,invoice</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Motoboy</Title>
+				<Title lang="es">Archivo de Motomensajero</Title>
+				<Title lang="en">Motorcycle Currier Register</Title>
+				<Function>TURA049</Function>
+				<Type>1</Type>
+				<Tables>G9N</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000012489</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Protocolo</KeyWord>
+					<KeyWord lang="es">Protocolo</KeyWord>
+					<KeyWord lang="en">Protocol</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros Produtos</Title>
+			<Title lang="es">Archivos Productos</Title>
+			<Title lang="en">Product Registrations</Title>
+			<ItemID>0000023415</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produtos</Title>
+				<Title lang="es">Produtos</Title>
+				<Title lang="en">Products</Title>
+				<Function>MATA010</Function>
+				<Type>1</Type>
+				<Tables>SA5</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB3</Tables>
+				<Tables>SB4</Tables>
+				<Tables>SB5</Tables>
+				<Tables>SB6</Tables>
+				<Tables>SB8</Tables>
+				<Tables>SBJ</Tables>
+				<Tables>SBF</Tables>
+				<Tables>SDD</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SC4</Tables>
+				<Tables>SC6</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SD4</Tables>
+				<Tables>SG1</Tables>
+				<Tables>SG2</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SYD</Tables>
+				<Tables>SI4</Tables>
+				<Tables>SIC</Tables>
+				<Tables>SID</Tables>
+				<Tables>SJ2</Tables>
+				<Tables>SBG</Tables>
+				<Tables>SBS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>2</Owner>
+				<ItemID>0000022814</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Produto,produtos</KeyWord>
+					<KeyWord lang="es">Prducto,productos</KeyWord>
+					<KeyWord lang="en">Product,products</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupo de Produto</Title>
+				<Title lang="es">Grupo de Producto</Title>
+				<Title lang="en">Product Group</Title>
+				<Function>MATA035</Function>
+				<Type>1</Type>
+				<Tables>SBM</Tables>
+				<Tables>G3K</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021417</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Grupo,produto</KeyWord>
+					<KeyWord lang="es">Grupo,producto</KeyWord>
+					<KeyWord lang="en">Group,product</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Categoria de Veículos</Title>
+				<Title lang="es">Categoría de Vehículos</Title>
+				<Title lang="en">Vehicles Category</Title>
+				<Function>TURA021</Function>
+				<Type>1</Type>
+				<Tables>G4Y</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021449</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Categoria,categorias,veiculos,veiculo</KeyWord>
+					<KeyWord lang="es">Categoría,categorías,vehículos,vehículo</KeyWord>
+					<KeyWord lang="en">Category,categories,vehicle,vehicles</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Veículo</Title>
+				<Title lang="es">Tipo de Vehículo</Title>
+				<Title lang="en">Vehicle Type</Title>
+				<Function>TURA022</Function>
+				<Type>1</Type>
+				<Tables>G4Z</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021471</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tipo,tipos,veiculos,veiculo,veículo,veículos</KeyWord>
+					<KeyWord lang="es">Tipo,tipos,vehículos,vehículo,vehículo,vehículos</KeyWord>
+					<KeyWord lang="en">Type,types,vehicles,vehicle,vehicle,vehicles</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transmissão/direção de Veículos</Title>
+				<Title lang="es">Transmisión/dirección de Vehículos</Title>
+				<Title lang="en">Transmission/driving Vehicles</Title>
+				<Function>TURA023</Function>
+				<Type>1</Type>
+				<Tables>G50</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021472</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Transmissão,transmissões,direção,direções,veículos,veículo,transmissao,transmissoes,direcao,direcoes,veiculos,veiculo</KeyWord>
+					<KeyWord lang="es">Transmisión,transmisiones,dirección,direcciones,vehículos,vehículo,transmisión,transmisiones,dirección,direcciones,vehículos,vehículo</KeyWord>
+					<KeyWord lang="en">Transmission,transmissions,direction,directions,vehicles,vehicle,transmission,transmissions,direction,directions,vehicles,vehicle</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Combustível/ar</Title>
+				<Title lang="es">Combustible/aire</Title>
+				<Title lang="en">Fuel/air</Title>
+				<Function>TURA024</Function>
+				<Type>1</Type>
+				<Tables>G51</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021473</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Combustível,combustivel,combustíveis,combustiveis,ar,condicionado</KeyWord>
+					<KeyWord lang="es">Combustible,combustible,combustibles,combustibles,aire,acondicionado</KeyWord>
+					<KeyWord lang="en">Fuel,fuel,fuel,fuel,air,conditioning</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classe de Serviço</Title>
+				<Title lang="es">Clase de Servicio</Title>
+				<Title lang="en">Service Class</Title>
+				<Function>TURA003</Function>
+				<Type>1</Type>
+				<Tables>G3C</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021394</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Classe,serviço</KeyWord>
+					<KeyWord lang="es">Clase,servicio</KeyWord>
+					<KeyWord lang="en">Class,service</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Navios</Title>
+				<Title lang="es">Barcos</Title>
+				<Title lang="en">Ships</Title>
+				<Function>TURA014</Function>
+				<Type>1</Type>
+				<Tables>G4H</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021443</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Navio,navios</KeyWord>
+					<KeyWord lang="es">Barco,barcos</KeyWord>
+					<KeyWord lang="en">Ship,ships</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Cabines</Title>
+				<Title lang="es">Tipos de Cabinas</Title>
+				<Title lang="en">Cabin Types</Title>
+				<Function>TURA015</Function>
+				<Type>1</Type>
+				<Tables>G4I</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021444</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tipo,tipos,cabine,cabines</KeyWord>
+					<KeyWord lang="es">Tipo,tipos,cabina,cabinas</KeyWord>
+					<KeyWord lang="en">Type,types,cabin,cabins</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planos de Seguros</Title>
+				<Title lang="es">Planes de Seguros</Title>
+				<Title lang="en">Insurance Plans</Title>
+				<Function>TURA013</Function>
+				<Type>1</Type>
+				<Tables>G4G</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021442</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Plano,planos,seguro,seguros</KeyWord>
+					<KeyWord lang="es">Plan,planes,seguro,seguros</KeyWord>
+					<KeyWord lang="en">Plan,plans,insurance,insurances</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Apartamentos</Title>
+				<Title lang="es">Tipos de Departamentos</Title>
+				<Title lang="en">Apartment Types</Title>
+				<Function>TURA016</Function>
+				<Type>1</Type>
+				<Tables>G4J</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021445</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tipo,tipos,apartamento,apartamentos</KeyWord>
+					<KeyWord lang="es">Tipo,tipos,departamento,departamentos</KeyWord>
+					<KeyWord lang="en">Type,types,apartment,apartments</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Terminal de Passageiros</Title>
+				<Title lang="es">Terminal de Pasajeros</Title>
+				<Title lang="en">Passengers Terminal</Title>
+				<Function>TURA002</Function>
+				<Type>1</Type>
+				<Tables>G3B</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021393</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Terminal,passageiros</KeyWord>
+					<KeyWord lang="es">Terminal,pasajeros</KeyWord>
+					<KeyWord lang="en">Terminal,passengers</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Vistos</Title>
+				<Title lang="es">Tipos de Visas</Title>
+				<Title lang="en">Types Of Visa</Title>
+				<Function>TURA012</Function>
+				<Type>1</Type>
+				<Tables>G4F</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021440</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tipo,tipos,visto,vistos</KeyWord>
+					<KeyWord lang="es">Tipo,tipos,visa,visas</KeyWord>
+					<KeyWord lang="en">Type,types,visa,visas</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Linhas e Trechos</Title>
+				<Title lang="es">Líneas Y Trechos</Title>
+				<Title lang="en">Lines And Distances</Title>
+				<Function>TURA052</Function>
+				<Type>1</Type>
+				<Tables>G8M</Tables>
+				<Tables>G8N</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000023201</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Linhas,trechos</KeyWord>
+					<KeyWord lang="es">Líneas,trechos</KeyWord>
+					<KeyWord lang="en">Lines,distances</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sistemas de Broker</Title>
+				<Title lang="es">Sistemas de Broker</Title>
+				<Title lang="en">Broker Systems</Title>
+				<Function>TURA053</Function>
+				<Type>1</Type>
+				<Tables>G8O</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021907</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Broker,brokers</KeyWord>
+					<KeyWord lang="es">Broker,brokers</KeyWord>
+					<KeyWord lang="en">Broker,brokers</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Layouts Gds</Title>
+				<Title lang="es">Layouts Gds</Title>
+				<Title lang="en">Gds Layouts</Title>
+				<Function>TURA057</Function>
+				<Type>1</Type>
+				<Tables>G8U</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000022737</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Layout,layouts,gds,sabre,amadeus</KeyWord>
+					<KeyWord lang="es">Layout,layouts,gds,sabre,amadeus</KeyWord>
+					<KeyWord lang="en">Layout,layouts,gds,sabre,amadeus</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">De/para Sigatur</Title>
+				<Title lang="es">De/a Sigatur</Title>
+				<Title lang="en">From/to Sigatur</Title>
+				<Function>TURA051</Function>
+				<Type>1</Type>
+				<Tables>G6K</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021818</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">De/para,de,para,sigatur</KeyWord>
+					<KeyWord lang="es">De/a,de,a,sigatur</KeyWord>
+					<KeyWord lang="en">From/to,from,to,sigatur</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Registro de Vendas</Title>
+			<Title lang="es">Registro de Ventas</Title>
+			<Title lang="en">Sales Record</Title>
+			<ItemID>0000021722</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">R.v. Corporativo</Title>
+				<Title lang="es">R.v. Corporativo</Title>
+				<Title lang="en">Corporate R.v.</Title>
+				<Function>TURA034A</Function>
+				<Type>1</Type>
+				<Tables>G3P</Tables>
+				<Tables>G3Q</Tables>
+				<Tables>G3R</Tables>
+				<Tables>G3S</Tables>
+				<Tables>G3T</Tables>
+				<Tables>G3U</Tables>
+				<Tables>G3V</Tables>
+				<Tables>G3W</Tables>
+				<Tables>G3X</Tables>
+				<Tables>G3Y</Tables>
+				<Tables>G3Z</Tables>
+				<Tables>G40</Tables>
+				<Tables>G41</Tables>
+				<Tables>G42</Tables>
+				<Tables>G43</Tables>
+				<Tables>G44</Tables>
+				<Tables>G45</Tables>
+				<Tables>G46</Tables>
+				<Tables>G47</Tables>
+				<Tables>G48</Tables>
+				<Tables>G49</Tables>
+				<Tables>G4A</Tables>
+				<Tables>G4B</Tables>
+				<Tables>G4C</Tables>
+				<Tables>G4D</Tables>
+				<Tables>G4E</Tables>
+				<Tables>G9K</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021723</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Registro,venda,corporativo,segmento,rv,r.v.</KeyWord>
+					<KeyWord lang="es">Registro,venta,corporativo,segmento,rv,r.v.</KeyWord>
+					<KeyWord lang="en">Record,sale,corporate,segment,rv,r.v.</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">R.v. Evento</Title>
+				<Title lang="es">R.v. Evento</Title>
+				<Title lang="en">Event R.v.</Title>
+				<Function>TURA034B</Function>
+				<Type>1</Type>
+				<Tables>G3P</Tables>
+				<Tables>G3Q</Tables>
+				<Tables>G3R</Tables>
+				<Tables>G3S</Tables>
+				<Tables>G3T</Tables>
+				<Tables>G3U</Tables>
+				<Tables>G3V</Tables>
+				<Tables>G3W</Tables>
+				<Tables>G3X</Tables>
+				<Tables>G3Y</Tables>
+				<Tables>G3Z</Tables>
+				<Tables>G40</Tables>
+				<Tables>G41</Tables>
+				<Tables>G42</Tables>
+				<Tables>G43</Tables>
+				<Tables>G44</Tables>
+				<Tables>G45</Tables>
+				<Tables>G46</Tables>
+				<Tables>G47</Tables>
+				<Tables>G48</Tables>
+				<Tables>G49</Tables>
+				<Tables>G4A</Tables>
+				<Tables>G4B</Tables>
+				<Tables>G4C</Tables>
+				<Tables>G4D</Tables>
+				<Tables>G4E</Tables>
+				<Tables>G9K</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021725</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Registro,venda,evento,segmento,rv,r.v.</KeyWord>
+					<KeyWord lang="es">Registro,venta,evento,segmento,rv,r.v.</KeyWord>
+					<KeyWord lang="en">Record,sale,event,segment,rv,r.v.</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">R.v. Lazer</Title>
+				<Title lang="es">R.v. Entreten.</Title>
+				<Title lang="en">Leisure R.v.</Title>
+				<Function>TURA034C</Function>
+				<Type>1</Type>
+				<Tables>G3P</Tables>
+				<Tables>G3Q</Tables>
+				<Tables>G3R</Tables>
+				<Tables>G3S</Tables>
+				<Tables>G3T</Tables>
+				<Tables>G3U</Tables>
+				<Tables>G3V</Tables>
+				<Tables>G3W</Tables>
+				<Tables>G3X</Tables>
+				<Tables>G3Y</Tables>
+				<Tables>G3Z</Tables>
+				<Tables>G40</Tables>
+				<Tables>G41</Tables>
+				<Tables>G42</Tables>
+				<Tables>G43</Tables>
+				<Tables>G44</Tables>
+				<Tables>G45</Tables>
+				<Tables>G46</Tables>
+				<Tables>G47</Tables>
+				<Tables>G48</Tables>
+				<Tables>G49</Tables>
+				<Tables>G4A</Tables>
+				<Tables>G4B</Tables>
+				<Tables>G4C</Tables>
+				<Tables>G4D</Tables>
+				<Tables>G4E</Tables>
+				<Tables>G9K</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021727</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Registro,venda,lazer,segmento,rv,r.v.</KeyWord>
+					<KeyWord lang="es">Registro,venta,ocio,segmento,rv,r.v.</KeyWord>
+					<KeyWord lang="en">Record,sale,leisure,segment,rv,r.v.</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pesquisa Avançada</Title>
+				<Title lang="es">Búsqueda Avanzada</Title>
+				<Title lang="en">Advanced Search</Title>
+				<Function>TURA067</Function>
+				<Type>1</Type>
+				<Tables>G3P</Tables>
+				<Tables>G3Q</Tables>
+				<Tables>G3R</Tables>
+				<Tables>G3S</Tables>
+				<Tables>G3T</Tables>
+				<Tables>G3U</Tables>
+				<Tables>G3V</Tables>
+				<Tables>G3W</Tables>
+				<Tables>G3X</Tables>
+				<Tables>G3Y</Tables>
+				<Tables>G3Z</Tables>
+				<Tables>G40</Tables>
+				<Tables>G41</Tables>
+				<Tables>G42</Tables>
+				<Tables>G43</Tables>
+				<Tables>G44</Tables>
+				<Tables>G45</Tables>
+				<Tables>G46</Tables>
+				<Tables>G47</Tables>
+				<Tables>G48</Tables>
+				<Tables>G49</Tables>
+				<Tables>G4A</Tables>
+				<Tables>G4B</Tables>
+				<Tables>G4C</Tables>
+				<Tables>G4D</Tables>
+				<Tables>G4E</Tables>
+				<Tables>G9K</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000023741</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Pesquisa Avançada</KeyWord>
+					<KeyWord lang="es">Búsqueda Avanzada</KeyWord>
+					<KeyWord lang="en">Advanced Research</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Conciliação Fornecedor</Title>
+			<Title lang="es">Conciliac. Proveed</Title>
+			<Title lang="en">Supplier Reconciliation</Title>
+			<ItemID>0000021556</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fatura Aérea</Title>
+				<Title lang="es">Factura Aérea</Title>
+				<Title lang="en">Air Fare</Title>
+				<Function>TURA038</Function>
+				<Type>1</Type>
+				<Tables>G6H</Tables>
+				<Tables>G6I</Tables>
+				<Tables>G6J</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021559</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Importação,fatura,aérea,bsp,gol</KeyWord>
+					<KeyWord lang="es">Importación,factura,área,bsp,gol</KeyWord>
+					<KeyWord lang="en">Importing,invoice,area,bsp,goal</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conciliação Aérea</Title>
+				<Title lang="es">Conciliación Aérea</Title>
+				<Title lang="en">Aerial Reconciliation</Title>
+				<Function>TURA039</Function>
+				<Type>1</Type>
+				<Tables>G6J</Tables>
+				<Tables>G6I</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000023699</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conciliação,fatura,aérea</KeyWord>
+					<KeyWord lang="es">Conciliación,factura,aérea</KeyWord>
+					<KeyWord lang="en">Reconciliation,invoice,aerial</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conciliação Outros (terrestre)</Title>
+				<Title lang="es">Concil. Otros(terrestre)</Title>
+				<Title lang="en">Other Reconciliation (land)</Title>
+				<Function>TURA042A</Function>
+				<Type>1</Type>
+				<Tables>G8C</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000023529</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conciliação Reembolso Terrestre</Title>
+				<Title lang="es">Concil.reembol.terrestre</Title>
+				<Title lang="en">Reimbursement Reconciliation Land</Title>
+				<Function>TURA042R</Function>
+				<Type>1</Type>
+				<Tables>G8C</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000023542</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conciliação de Cartões</Title>
+				<Title lang="es">Concil. Tarjetas</Title>
+				<Title lang="en">Card Reconciliation</Title>
+				<Function>TURA061</Function>
+				<Type>1</Type>
+				<Tables>G90</Tables>
+				<Tables>G91</Tables>
+				<Tables>G4C</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000023633</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Apuração</Title>
+			<Title lang="es">Cálculo</Title>
+			<Title lang="en">Calculation</Title>
+			<ItemID>0000023427</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apuração de Acordos de Metas</Title>
+				<Title lang="es">Cálc. Acuerdo de Metas</Title>
+				<Title lang="en">Goal Agreem. Calculation</Title>
+				<Function>TURA043</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000023428</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Apuração,acordos,metas</KeyWord>
+					<KeyWord lang="es">Cálculo,acuerdos,metas</KeyWord>
+					<KeyWord lang="en">Calculation,agreements,goals</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apuração de Receita do Cliente</Title>
+				<Title lang="es">Cálc. Ingreso de Cliente</Title>
+				<Title lang="en">Customer Income Calculation</Title>
+				<Function>TURA040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000023432</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Apuração,receita,clientes</KeyWord>
+					<KeyWord lang="es">Cálculo,ingreso,clientes</KeyWord>
+					<KeyWord lang="en">Calculation,income,customers</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apuração de Receita de Fornecedor</Title>
+				<Title lang="es">Cálculo de Ingreso de Proveedor</Title>
+				<Title lang="en">Supplier Income Calculation</Title>
+				<Function>TURA050</Function>
+				<Type>1</Type>
+				<Tables>G6L</Tables>
+				<Tables>G6M</Tables>
+				<Tables>G6O</Tables>
+				<Tables>G48</Tables>
+				<Tables>G4C</Tables>
+				<Tables>G81</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000023755</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Apuração,receita,fornecedor</KeyWord>
+					<KeyWord lang="es">Cálculo,ingreso,proveedor</KeyWord>
+					<KeyWord lang="en">Calculation,income,supplier</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Faturamento</Title>
+			<Title lang="es">Facturación</Title>
+			<Title lang="en">Invoicing</Title>
+			<ItemID>0000023283</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fatura de Adiantamento</Title>
+				<Title lang="es">Factura Anticipo</Title>
+				<Title lang="en">Advance Invoice</Title>
+				<Function>TURA047</Function>
+				<Type>1</Type>
+				<Tables>G8G</Tables>
+				<Tables>G8H</Tables>
+				<Tables>G8I</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000023284</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fatura,adiantamento</KeyWord>
+					<KeyWord lang="es">Factura,anticipo</KeyWord>
+					<KeyWord lang="en">Invoice,advance</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle de Protocolo</Title>
+				<Title lang="es">Control Comprobant</Title>
+				<Title lang="en">Protocol Control</Title>
+				<Function>TURA065</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000023497</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Envio Eletrônico de Fatura</Title>
+				<Title lang="es">Envío Electrónico de Factura</Title>
+				<Title lang="en">Send Invoice Electronically</Title>
+				<Function>TURA066</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023673</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Envio,eletronico</KeyWord>
+					<KeyWord lang="es">Envío,electrónico</KeyWord>
+					<KeyWord lang="en">Sending,electronic</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fatura de Vendas</Title>
+				<Title lang="es">Factura de Ventas</Title>
+				<Title lang="en">Sales Invoice</Title>
+				<Function>TURA044V</Function>
+				<Type>1</Type>
+				<Tables>G84</Tables>
+				<Tables>G85</Tables>
+				<Tables>G86</Tables>
+				<Tables>G8E</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000023889</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fatura,faturamento,venda</KeyWord>
+					<KeyWord lang="es">Factura,facturación,venta</KeyWord>
+					<KeyWord lang="en">Invoice,invoicing,sale</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fatura de Apurações</Title>
+				<Title lang="es">Factura de Cálculos</Title>
+				<Title lang="en">Calculation Invoice</Title>
+				<Function>TURA044A</Function>
+				<Type>1</Type>
+				<Tables>G84</Tables>
+				<Tables>G85</Tables>
+				<Tables>G86</Tables>
+				<Tables>G8E</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000023890</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fatura,faturamento,apurações</KeyWord>
+					<KeyWord lang="es">Factura,facturación,cálculos</KeyWord>
+					<KeyWord lang="en">Invoice,invoicing,calculations</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fatura de Crédito</Title>
+				<Title lang="es">Factura de Crédito</Title>
+				<Title lang="en">Credit Invoice</Title>
+				<Function>TURA044C</Function>
+				<Type>1</Type>
+				<Tables>G84</Tables>
+				<Tables>G85</Tables>
+				<Tables>G86</Tables>
+				<Tables>G8E</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000024007</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fatura,faturamento,credito</KeyWord>
+					<KeyWord lang="es">Factura,facturación,crédito</KeyWord>
+					<KeyWord lang="en">Invoice,billing,credit</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aprovação de Breakage</Title>
+				<Title lang="es">Aprobación de Breakage</Title>
+				<Title lang="en">Breakage Approval</Title>
+				<Function>TURA044B</Function>
+				<Type>1</Type>
+				<Tables>G84</Tables>
+				<Tables>G85</Tables>
+				<Tables>G86</Tables>
+				<Tables>G8E</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000024299</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fatura,faturamento,breakage</KeyWord>
+					<KeyWord lang="es">Factura,facturación,breakage</KeyWord>
+					<KeyWord lang="en">Invoice,billing,breakage</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A890000002</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Registers</Title>
+			<ItemID>0000023974</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genéricos</Title>
+				<Title lang="es">Genéricos</Title>
+				<Title lang="en">Generic</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000023975</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A890000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Protocolos</Title>
+			<Title lang="es">Comprob.</Title>
+			<Title lang="en">Protocols</Title>
+			<ItemID>0000023495</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Emissão de Protocolo</Title>
+				<Title lang="es">Emisión de Comprob</Title>
+				<Title lang="en">Protocol Issue</Title>
+				<Function>TURR002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000023496</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Registro de Venda</Title>
+			<Title lang="es">Registro de Venta</Title>
+			<Title lang="en">Sales Record</Title>
+			<ItemID>0000023706</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Procolos e Vouchers</Title>
+				<Title lang="es">Comprobantes Y Vouchers</Title>
+				<Title lang="en">Protocols And Vouchers</Title>
+				<Function>TURR004</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023707</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Fatura</Title>
+			<Title lang="es">Factura</Title>
+			<Title lang="en">Invoice</Title>
+			<ItemID>0000024375</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Impressão de Fatura</Title>
+				<Title lang="es">Impresión de Factura</Title>
+				<Title lang="en">Invoice Printing</Title>
+				<Function>TURR012</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000024376</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Prev. Faturamento</Title>
+				<Title lang="es">Prev. Facturación</Title>
+				<Title lang="en">Invoicing Prev</Title>
+				<Function>TURR005</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000013065</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Contábil</Title>
+			<Title lang="es">Contable</Title>
+			<Title lang="en">Accounting</Title>
+			<ItemID>0000013814</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movimentos do Turismo</Title>
+				<Title lang="es">Movimientos de Turismo</Title>
+				<Title lang="en">Tourism Transactions</Title>
+				<Function>TURR062</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013815</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A890000004</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aplicação Automática de Acordos</Title>
+				<Title lang="es">Aplicación Automática de Acuerdos</Title>
+				<Title lang="en">Automatic Application Of Agreements</Title>
+				<Function>TURM034</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024437</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Importações</Title>
+			<Title lang="es">Importaciones</Title>
+			<Title lang="en">Imports</Title>
+			<ItemID>0000021566</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Importação da Fatura Aérea</Title>
+				<Title lang="es">Importación de La Factura Aérea</Title>
+				<Title lang="en">Import Of Air Waybill</Title>
+				<Function>TURA038IMP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000021567</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fatura,aérea,importação</KeyWord>
+					<KeyWord lang="es">Factura,aérea,importación</KeyWord>
+					<KeyWord lang="en">Invoice,air,import</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atualizador de Dados do Rv</Title>
+				<Title lang="es">Actualizador de Datos Del Rv</Title>
+				<Title lang="en">Update Rv Data</Title>
+				<Function>TURA068</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000023763</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Importar,atualizador,csv</KeyWord>
+					<KeyWord lang="es">Importar,actualizar,csv</KeyWord>
+					<KeyWord lang="en">Import,updater,csv</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Integração Pnr</Title>
+			<Title lang="es">Integración Pnr</Title>
+			<Title lang="en">Integration Pnr</Title>
+			<ItemID>0000022845</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Wizard de Integração Pnr</Title>
+				<Title lang="es">Wizard de Integración Pnr</Title>
+				<Title lang="en">Pnr Integration Wizard</Title>
+				<Function>TURA070</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000023766</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sabre</Title>
+				<Title lang="es">Sabre</Title>
+				<Title lang="en">Sabre</Title>
+				<Function>TURA048</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000022846</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Pnr,sabre</KeyWord>
+					<KeyWord lang="es">Pnr,sabre</KeyWord>
+					<KeyWord lang="en">Pnr,sabre</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor de Integração Pnr</Title>
+				<Title lang="es">Monit Integrac Pnr</Title>
+				<Title lang="en">Pnr Integration Monitor</Title>
+				<Function>TURA056</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>89</Owner>
+				<ItemID>0000023369</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Monitor,integração,pnr,sabre</KeyWord>
+					<KeyWord lang="es">Monitor,integración,pnr,sabre</KeyWord>
+					<KeyWord lang="en">Monitor,integration,pnr,sabre</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Contabilização</Title>
+			<Title lang="es">Contabilidad</Title>
+			<Title lang="en">Accounting</Title>
+			<ItemID>0000023720</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabilização Off-line</Title>
+				<Title lang="es">Contabilidad Off-line</Title>
+				<Title lang="en">Off-line Accounting</Title>
+				<Function>CTBATUR</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>89</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023721</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B890000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B890000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

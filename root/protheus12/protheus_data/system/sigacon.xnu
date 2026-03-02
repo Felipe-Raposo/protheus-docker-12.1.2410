@@ -1,0 +1,114 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGACON</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A030000003</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lancamentos P/lote</Title>
+				<Title lang="es">Registros Por Lote</Title>
+				<Title lang="en">Entries By Lot</Title>
+				<Function>CONR120</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000346</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Diario Geral</Title>
+				<Title lang="es">Diario General</Title>
+				<Title lang="en">General Journal</Title>
+				<Function>CONR080</Function>
+				<Type>1</Type>
+				<Tables>SI2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000360</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Diario X Item</Title>
+				<Title lang="es">Diario Vs Item</Title>
+				<Title lang="en">Journal Vs. Item</Title>
+				<Function>CONR310</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SIA</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000382</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movim. Mensal Rxd</Title>
+				<Title lang="es">Mov. Mens. I Vs G</Title>
+				<Title lang="en">R X e Mth. Trans.</Title>
+				<Function>CONR360</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI4</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>03</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000385</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B030000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B030000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>
